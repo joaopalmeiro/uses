@@ -1,1 +1,18 @@
 ## Running
+
+### Apps
+
+- [Strava](https://www.strava.com/)
+
+### Shoes
+
+- [adidas Solarboost/SolarBoost 3](https://www.adidas.com/us/solarboost-3-shoes/FY4103.html)
+  - Color: Solar Red / Core Black / Night Metallic
+  - Product code: FY4103
+  - Size (FR): 41 ⅓
+  - Month/Year: 04/2021
+- `Deprecated` [adidas Energy Boost ESM](https://web.archive.org/web/20150208034804/http://www.adidas.com/us/energy-boost-esm-shoes/B44281.html)
+  - Color: Flash Green
+  - Product code: B44281
+  - Size (FR): 42
+  - Month/Year: 12/2014
