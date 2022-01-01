@@ -1,4 +1,4 @@
-# Uses
+# uses
 
 My personal `/uses` page.
 
