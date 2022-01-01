@@ -32,3 +32,8 @@ My personal `/uses` page.
   - [Reset CSS](https://meyerweb.com/eric/tools/css/reset/).
   - `revert` CSS keyword: to reset to the default value in the [user-agent stylesheet](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade#user-agent_stylesheets). If there are no styles defined for an element in the user-agent stylesheet, the `revert` keyword will behave like the `unset` keyword.
   - `:where()` CSS pseudo-class function: it removes the specificity inside this selector.
+- [Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme):
+  - [List](https://github.com/PKief/vscode-material-icon-theme/blob/main/src/icons/fileIcons.ts).
+  - [Support workspace settings](https://github.com/PKief/vscode-material-icon-theme/issues/208) (open) issue. Alternative: Add `"material-icon-theme.files.associations": { "*.svx": "mdx" }` to [User Settings](https://code.visualstudio.com/docs/getstarted/settings).
+  - [Contributing guidelines](https://github.com/PKief/vscode-material-icon-theme/blob/main/CONTRIBUTING.md).
+  - Alternative: [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons).
