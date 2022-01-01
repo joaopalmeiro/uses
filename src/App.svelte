@@ -1,5 +1,7 @@
 <script>
-  import Uses from "./lib/Uses.svx";
+  import Header from "./lib/Header.svx";
+  import Running from "./lib/Running.svx";
 </script>
 
-<Uses />
+<Header />
+<Running />
