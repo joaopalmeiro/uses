@@ -8,6 +8,7 @@ export default defineConfig({
   plugins: [
     // https://windicss.org/integrations/vite.html
     // https://stackoverflow.com/a/69606329
+    // https://github.com/windicss/vite-plugin-windicss
     WindiCSS(),
     // https://github.com/VdustR/example-vite-svelte-markdown#setup-mdsvex
     // https://github.com/sveltejs/vite-plugin-svelte/blob/main/docs/config.md
