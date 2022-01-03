@@ -37,3 +37,4 @@ My personal `/uses` page.
   - [Support workspace settings](https://github.com/PKief/vscode-material-icon-theme/issues/208) (open) issue. Alternative: Add `"material-icon-theme.files.associations": { "*.svx": "mdx" }` to [User Settings](https://code.visualstudio.com/docs/getstarted/settings).
   - [Contributing guidelines](https://github.com/PKief/vscode-material-icon-theme/blob/main/CONTRIBUTING.md).
   - Alternative: [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons).
+- [remark-class-names](https://github.com/pngwn/remark-class-names) plugin.

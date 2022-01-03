@@ -4,6 +4,7 @@ import { defineConfig } from "vite";
 import WindiCSS from "vite-plugin-windicss";
 
 // https://vitejs.dev/config/
+// https://github.com/vitejs/vite/tree/main/packages/create-vite/template-svelte
 export default defineConfig({
   plugins: [
     // https://windicss.org/integrations/vite.html
@@ -14,7 +15,7 @@ export default defineConfig({
     // https://github.com/sveltejs/vite-plugin-svelte/blob/main/docs/config.md
     svelte({
       extensions: [".svx"],
-      preprocess: mdsvex(),
+      preprocess: mdsvex({ layout: { _: "./src/mdsvexlayout.svelte" } }),
     }),
     svelte(),
   ],
